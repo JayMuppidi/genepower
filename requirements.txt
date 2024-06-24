@@ -1,0 +1,12 @@
+pyspark
+pandas
+numpy 
+pandas 
+polars 
+openpyxl
+tqdm
+sqlalchemy
+python-dotenv
+fastparquet
+fastapi[all]
+packaging
